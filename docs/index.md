@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# CS Master Admission 2023 FALL
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+## Description
+This site provides me and my girlfriend's admission for US CS 2023 FALL master.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+It contains school information, admission requirements and other materials needed as a record of admission.
 
-## Project layout
+The website can only serves as a reference based on our own investigation and preference. Since situation vaires year by year, every visitor should do their own investigation of the on their admission year. What we can do is to provide you a general picture of CS-related master programs as well as basic information about US schools.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+You should do your research on admission as early as possible. So as to the TOEFL/IELTS and GRE tests. Never be a late bird.

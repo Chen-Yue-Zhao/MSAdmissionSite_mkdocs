@@ -51,8 +51,7 @@ copyright: Copyright & copy; 2022 赵晨越 # 左下角的版权声明
 
 # [Navigation]
 nav:
-  - 网站简介:
-    - 网站简介/general.md
+  - index.md
   - SchoolList:
     - 1 Stanford:
       - SchoolList/Stanford/general.md
