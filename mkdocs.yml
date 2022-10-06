@@ -1,1 +1,102 @@
-site_name: My Docs
+# [Info]
+site_name: CS Master Admission # 左上角标题
+site_url: https://yang-xijie.github.io
+site_author: GeorgeZhao
+site_description: CS Master 留学申请
+
+
+# [UI]
+## [top]
+theme:
+  name: material
+  palette: 
+    - scheme: default # 日间模式
+      primary: indigo # 上方的
+      accent: orange # 链接等可交互元件的高亮色
+      toggle:
+        icon: material/weather-night # 图标
+        name: 切换至夜间模式 # 鼠标悬浮提示
+    - scheme: slate # 夜间模式
+      primary: indigo
+      accent: orange
+      toggle:
+        icon: material/weather-sunny
+        name: 切换至日间模式
+  features:
+    - navigation.tabs # 使用Tab来进行分类
+    - navigation.top # 返回顶部的按钮 在上滑时出现
+    - navigation.indexes # Tab会有一个index.md 而不是在打开Tab时打开第一篇文章
+    - navigation.expand # 打开Tab时左侧目录全部展开
+    - search.suggest # 搜索输入一些字母时推荐补全整个单词
+    - search.highlight # 搜索出的文章关键词加入高亮
+  language: zh # 一些提示性的文字会变成中文
+  icon:
+    repo: fontawesome/brands/github
+edit_uri: edit/main/docs # 编辑按钮跳转的链接
+## [top-right corner]
+repo_url: https://github.com/Chen-Yue-Zhao/MSAdmissionSite_mkocs
+repo_name: Chen-Yue-Zhao/MSAdmissionSite_mkocs # 右上角的名字
+## [bottom-left corner]
+copyright: Copyright & copy; 2022 赵晨越 # 左下角的版权声明
+## [bottom-right corner]
+# extra:
+#   social: # icons
+    # - icon: fontawesome/brands/bilibili
+    #   link: https://space.bilibili.com/24502827
+    #   name: Bilibili | 我不是小杰 # 鼠标悬浮提示
+    # - icon: fontawesome/brands/github
+    #   link: https://github.com/Yang-Xijie
+    #   name: GitHub | Yang-Xijie
+
+
+# [Navigation]
+nav:
+  - 网站简介:
+    - general.md
+  - SchoolList:
+    - 1 Stanford:
+      - SchoolList/Stanford/general.md
+      - MSCS: SchoolList/Stanford/MSCS.md
+      - MSDS: SchoolList/Stanford/MSDS.md
+      - MSOR: SchoolList/Stanford/MSOR.md
+    - 2 UCB: 
+      - SchoolList/UCB/general.md
+      - M.S.: SchoolList/UCB/MS.md
+      - M.Eng.: SchoolList/UCB/MEng.md
+    - 3 Harvard:
+      - SchoolList/Harvard/general.md
+      - CSE CS: SchoolList/Harvard/CSE_CS.md
+      - CSE DS: SchoolList/Harvard/CSE_DS.md
+    - 4 CMU:
+      - SchoolList/CMU/general.md
+      - CMU School of CS: SchoolList/CMU/CS_Programs.md
+      - CMU School of Eng.: SchoolList/CMU/Eng_Programs.md
+    - 5 UCLA:
+      - SchoolList/UCLA/general.md
+      - MSCS: SchoolList/UCLA/MSCS.md
+    - 6 CMU SV:
+      - SchoolList/CMU SV/general.md
+      - MS in Software Engineering: SchoolList/CMU SV/MS_SDE.md
+    - 7 UCSD:
+      - SchoolList/UCSD/general.md
+      - CSE MS: SchoolList/UCSD/CSE.md
+      - ECE MS: SchoolList/UCSD/ECE.md
+    - 8 Duke:
+      - SchoolList/Duke/general.md
+      - MS ECE: SchoolList/Duke/ECE_MS.md
+    - 9 Columbia:
+      - SchoolList/Columbia/general.md
+      - MSCS: SchoolList/Columbia/MSCS.md
+    - 10 USC:
+      - SchoolList/USC/general.md
+      - MS Programs: SchoolList/USC/Programs.md
+  - Supplementary Schools: 
+    - 1 MIT: 
+      - SupSchools/MIT/general.md
+      - EECS MS: SupSchools/MIT/EECS.md
+      - CCSE MS: SupSchools/MIT/CCSE.md
+      - OR MS: SupSchools/MIT/OR.md
+    - 2 NYU: 
+      - SupSchools/NYU/general.md
+      - MSCS: SupSchools/NYU/MSCS.md
+      - MSIS: SupSchools/NYU/MSIS.md
