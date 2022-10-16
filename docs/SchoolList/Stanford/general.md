@@ -1,8 +1,8 @@
 # Stanford University
 ## Basic Information:
-- Location: 450 Serra Mall, Stanford, CA 94305
+- Location: 450 Serra Mall, Stanford, CA 94305, United States
 - National Ranking: #3
-- CS Ranking: #2
+- CS Ranking: #2 (# 2-4)
 
 ![](01.png) | ![](02.png)
 --- | ---
@@ -14,7 +14,7 @@ Stanford University's Computer Science Department is part of the School of Engin
 
 *For detailed information please go to this [link](https://cs.stanford.edu/about/department-overview).*
 
-#### 2. Department of Statistics
+### 2. Department of Statistics
 
 The Statistics Department's goal is research and student training in statistics, both theory and applications, and in probability. Throughout its long history our department has been very active in the development of these subjects, which advance other fields in the sciences, medicine, engineering and education. Our departmental seminars have touched on biology, chemistry, sociology, particle physics, machine learning,... and ranged through imagis ne analysis, 3D mapping, data denoising, online markets, social network experiments, student teaching evaluations, and the study of modern slavery.
 
