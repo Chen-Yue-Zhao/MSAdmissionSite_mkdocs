@@ -15,7 +15,7 @@ As with our PhD programs, CSE Dept. offer majors in both **computer science** an
 
 Both majors are available in each of our three MS plans: [<u>Thesis Plan</u>](https://cse.ucsd.edu/graduate/degree-programs/ms-program/ms-2015-thesis), [<u>Comprehensive Standard Plan</u>](https://cse.ucsd.edu/graduate/degree-programs/ms-program/ms-2015-comp-standard), or [<u>Comprehensive Interdisciplinary Plan</u>](https://cse.ucsd.edu/graduate/degree-programs/ms-program/ms-2015-comp-interdisc). 
 
-*Go to CSE [Master Program general](https://cse.ucsd.edu/graduate/degree-programs/ms-program) for more detialed illustration.*
+*Go to [CSE Master Program general](https://cse.ucsd.edu/graduate/degree-programs/ms-program) for more detialed illustration.*
 
 ### 2. Department of Electrical & Computer Engineering (ECE Dept.)
 
