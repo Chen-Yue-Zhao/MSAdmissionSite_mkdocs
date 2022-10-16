@@ -12,7 +12,7 @@
 
 Berkeley EECS offers one of the most comprehensive instructional and research programs available anywhere in our field. We have a particular strength in large interdisciplinary real-world system projects that bring to bear core technologies seamlessly across electrical engineering and computer science.
 
-*For detailed information please go to this [link](https://eecs.berkeley.edu/#)*
+*For detailed information please go to this [link](https://eecs.berkeley.edu/#).*
 
 
 ## Personal Description
