@@ -1,7 +1,6 @@
-# MSCS
+# MSCS: MS of Computer Science
 ## Master Program Overview
 Click here for [Overview of MSCS](https://cs.stanford.edu/academics/masters).
-
 You can download the <a href="psguide2223.pdf" target="_blank">Guide to the MSCS Program Sheet</a> for further inspect of MSCS Program.
 
 ### Specializations
@@ -9,6 +8,7 @@ As an MSCS student, you **must choose one of nine predefined specializations**. 
 **You can switch specializations at any time.**
 
 **MSCS Program provides following specializations:**
+
 - Artificial Intelligence
 - Biocomputation
 - Computer and Network Security
@@ -21,7 +21,6 @@ As an MSCS student, you **must choose one of nine predefined specializations**. 
 
 Check here for [requirements & courses for all specializations](https://cs.stanford.edu/academics/masters/choosing-specialization).
 
-
 ---
 
 ## Master Admission
@@ -31,7 +30,9 @@ Click here for [Overview of MSCS Admission](https://cs.stanford.edu/academics/ma
 
 **截止日期：Tuesday, December 6, 2022 at 11:59:59 pm, PST**
 
-### About Deadline
+**决定日期**: March 2023
+
+> ### About Deadline
 > All application deadlines are final. Application materials such as letters of recommendation, transcripts and TOEFL scores (for international applicants) must be uploaded by the deadline. Applications will NOT be accepted after the deadline.
 
 ### Checklist
@@ -41,18 +42,19 @@ Click here for [Overview of MSCS Admission](https://cs.stanford.edu/academics/ma
 - 个人简历
 - Supplemental form
 - 个人成绩单
-- [TOEFL](####TOEFL)
+- [TOEFL](###About)
 - GRE: **NOT** required for MSCS
+- 申请费：$125
 
 [Checklist 详情网址](https://cs.stanford.edu/admissions/masters/application-checklist)
 
 
 
 ### About TOEFL
-- ##### 成绩要求
+#### 成绩要求
 
 |  项目类型  | 最低分要求  |
-|  ---  | ---  |
+|  ---  | :---:  |
 |  **Doctoral Programs: all**  | 100 |
 | **Master’s Programs: all except School of Engineering**  | 100 |
 |  **Master’s Programs: School of Engineering** | 89 |
