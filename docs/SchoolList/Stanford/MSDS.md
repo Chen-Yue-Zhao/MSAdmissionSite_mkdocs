@@ -51,10 +51,10 @@ Click here for [Overview of MSDS Admission](https://statistics.stanford.edu/msad
 
 #### Opotional
 - #### 个人简历
-  - Research Experience
-  - Publications/Presentations/Posters
-  - Awards & Honors
-  - Work Experience
+- - Research Experience
+- - Publications/Presentations/Posters
+- - Awards & Honors
+- - Work Experience
 - #### Diversity Statement
   > We invite you to share your lived experiences, demonstrated values, perspectives, and/or activities that shape you as a scholar and align with these commitments.
 - #### Other Graduate Schools
