@@ -1,8 +1,8 @@
 # Carnegie Mellon University, Silicon Valley
 ## Basic Information:
 - Location: NASA Research Park, Bldg 23, Mountain View, CA 94035, United States
-- National Ranking: #3
-- CS Ranking: #2 (# 2-4)
+- National Ranking: #22
+- CS Ranking: #2 (2 - 4)
 
 ![](01.png) | ![](02.png)
 --- | ---
