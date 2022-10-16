@@ -40,25 +40,25 @@ Click here for [Overview of MSDS Admission](https://statistics.stanford.edu/msad
 
 ### Checklist
 #### Required
-- ##### Statement of Purpose (SOP)
+- ## Statement of Purpose (SOP)
   > Describe succinctly your reasons for applying to the proposed program at Stanford, preparation for this field of study, research interests, future career plans, and other aspects of your background and interests that may aid the admission committee in evaluating your aptitude and motivation for graduate study. The maximum recommended length is 1,000 words.
-- ##### 3封推荐信
+- ## 3封推荐信
   > Letters of recommendation should come from academic or professional references who know you well and are qualified to evaluate your potential for graduate study.
-- ##### 个人成绩单
-- ##### TOEFL [See more.](./MSCS.md/###About)
-- ##### GRE: <u>REQUIRED</u> for MSDS
-- ##### 申请费：$125
+- ## 个人成绩单
+- ## TOEFL [See more.](./MSCS.md/###About)
+- ## GRE: <u>REQUIRED</u> for MSDS
+- ## 申请费：$125
 
 #### Opotional
-- ##### 个人简历
+- ## 个人简历
   - Research Experience
   - Publications/Presentations/Posters
   - Awards & Honors
   - Work Experience
-- ##### Diversity Statement
+- ## Diversity Statement
   > We invite you to share your lived experiences, demonstrated values, perspectives, and/or activities that shape you as a scholar and align with these commitments.
-- ##### Other Graduate Schools
-- ##### Additional Information
+- ## Other Graduate Schools
+- ## Additional Information
 
 ---
 
