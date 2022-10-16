@@ -4,9 +4,8 @@
 - National Ranking: #3
 - CS Ranking: #2 (# 2-4)
 
-<img src="01.png" width="600px" height="200px">
-
-<img src="02.png" width="600px" height="300px">
+<img src=01.png width=600 height=200/>
+<img src=02.png width=600 height=300/>
 
 ---
 ## Related Departments
