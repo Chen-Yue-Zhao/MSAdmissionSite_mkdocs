@@ -37,14 +37,18 @@
 - **TOEFL**
 - **Statement of Purpose (SOP)**
 ![](./SOP.png)
+
 - **CV / Resumé**
 ![](./CV.png)
-- **Avergae GPA** (`WES` Recommended)
-- Academic Transcripts
+
+- **Avergae GPA (`WES` Recommended)**
+
+- **Academic Transcripts**
 - **Three letters of recommendation**
 ![](./letter.png)
-- TOEFL (明确接受家考)
+- **TOEFL (明确接受家考)**
 
+</br>
 
 #### Optional
 - **GRE Score**
