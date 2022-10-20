@@ -1,4 +1,4 @@
-# CSE： MASTER of Science IN COMPUTATIONAL SCIENCE
+# MASTER of Science IN COMPUTATIONAL SCIENCE
 
 ## Program Overview
 
