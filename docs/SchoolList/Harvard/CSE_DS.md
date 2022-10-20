@@ -1,4 +1,5 @@
-# MEng: Master of Engineering
+# CSE: MASTER of SCIENCE IN DATA SCIENCE
+
 
 ## Program Overview
 
