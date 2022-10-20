@@ -58,6 +58,6 @@ Click here for [Concentration Requirements](https://eecs.berkeley.edu/academics/
 </br>
 
 ###  Admission Links
-#### [Overview of MEng Program](https://eecs.berkeley.edu/academics/graduate/industry-programs/meng)
-#### [Meng Apply](https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/apply) - Information about basic preparations for MEng application.
-#### [Application Requirements](https://grad.berkeley.edu/admissions/steps-to-apply/requirements/#panel-1-5) - Datail illustrations about admission requirments
+**[Overview of MEng Program](https://eecs.berkeley.edu/academics/graduate/industry-programs/meng)**
+**[Meng Apply](https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/apply) - Information about basic preparations for MEng application.**
+**[Application Requirements](https://grad.berkeley.edu/admissions/steps-to-apply/requirements/#panel-1-5) - Datail illustrations about admission requirments**
