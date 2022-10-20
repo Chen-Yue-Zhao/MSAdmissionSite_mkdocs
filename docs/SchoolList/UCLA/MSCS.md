@@ -9,7 +9,7 @@
 | **Degree** | Master of Science (SM)|
 | **Length** | Two Years |
 | **STEM** | YES |
-| **Rolling Admission** | NO |
+| **Rolling Admission** |  Not Sure |
 | **Admission Rate** | 150 / 4000 (3.75%) |
 | **Min TOEFL** | 87 |
 | **Min IELTS** | 7.0 |
