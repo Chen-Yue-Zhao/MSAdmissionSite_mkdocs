@@ -1,12 +1,12 @@
-# CSE： MASTER'S IN COMPUTATIONAL SCIENCE AND ENGINEERING
+# CSE： MASTER of Science IN COMPUTATIONAL SCIENCE
 
 ## Program Overview
 
 |Basic Info.||
 | :---: | :---: |
-| **Department:** |  Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS) |
+| **Department:** |  UCLA Samueli School Of Engineering, Computer Science Department |
 | **Type:** | Full-time, Course-based |
-| **Degree** | **Master of Science (SM)** or **Master of Engineering (ME)**  |
+| **Degree** | Master of Science (SM)|
 | **Length** | Two Years |
 | **STEM** | YES |
 | **Rolling Admission** | NO |
