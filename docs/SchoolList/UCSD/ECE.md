@@ -55,7 +55,7 @@ by 11:59pm (California time)**
 
 
 ### 已有硕士学位，能否申请? 
-![](./ECE/duplicates.png.png)
+![](./ECE/duplicates.png)
 
 ### 不同背景的申请者须知
 ![](./ECE/bg.png)
