@@ -10,7 +10,6 @@
 | **Length** | 3 - 4 semesters |
 | **STEM** | YES |
 | **Rolling Admission** | NO |
-| **Admission Rate** |  |
 | **Min TOEFL** | 84 (不接受拼分) |
 | **Min IELTS** | 7.0 (有小分要求) |
 | **GPA Cutoff** | NO |
@@ -33,8 +32,6 @@
 ### Checklist
 #### Required
 
-![](./%E4%B8%AA%E4%BA%BA%E6%88%90%E7%BB%A9%E5%8D%95.png)
-- **TOEFL**
 - **Statement of Purpose (SOP)**
 ![](./SOP.png)
 
@@ -42,7 +39,7 @@
 ![](./CV.png)
 
 - **Avergae GPA (`WES` Recommended)**
-
+![](./GPA.png)
 - **Academic Transcripts**
 - **Three letters of recommendation**
 ![](./letter.png)
@@ -60,6 +57,9 @@
 
 ### ECE能否申请多个项目? 
 ![](./multiple%20program.png)
+
+### 不同背景的申请者须知
+![](./background_concern.png)
 
 ###  Admission Links
 

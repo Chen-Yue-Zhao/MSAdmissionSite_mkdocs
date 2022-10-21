@@ -68,14 +68,14 @@ nav:
       - CSE DS: SchoolList/Harvard/CSE_DS.md
     - 4 CMU:
       - SchoolList/CMU/general.md
-      - CMU School of CS: SchoolList/CMU/CS_Programs.md
-      - CMU School of Eng.: SchoolList/CMU/Eng_Programs.md
+      - School of CS: SchoolList/CMU/CS_Programs.md
+      - School of Eng.: SchoolList/CMU/Eng_Programs.md
     - 5 UCLA:
       - SchoolList/UCLA/general.md
       - MSCS: SchoolList/UCLA/MSCS.md
     - 6 CMU SV:
       - SchoolList/CMU SV/general.md
-      - MS in Software Engineering: SchoolList/CMU SV/MS_SDE.md
+      - MS-SE: SchoolList/CMU SV/MS_SDE.md
     - 7 UCSD:
       - SchoolList/UCSD/general.md
       - CSE MS: SchoolList/UCSD/CSE.md
