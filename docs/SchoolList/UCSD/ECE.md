@@ -11,6 +11,7 @@
 | **Admission Rate** |  |
 | **Min TOEFL** | 85 |
 | **Min IELTS** | 7.0 |
+| **Ave GRE** | V.157 Q.167 W.4 |
 | **GPA Cutoff** | 3.0 / 4.0 |
 
 ### Research Areas

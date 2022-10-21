@@ -16,7 +16,7 @@
 | **GPA Cutoff** | **NO** |
 
 ### Prerequisites Decription
-![](./DS%20%7C%20Prere.png)
+![](./DS_Prere.png)
 
 ---
 

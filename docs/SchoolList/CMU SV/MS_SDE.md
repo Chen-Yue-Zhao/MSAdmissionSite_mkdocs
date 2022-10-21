@@ -56,7 +56,7 @@
 ![](./double.png)
 
 ### ECE能否申请多个项目? 
-![](./multiple%20program.png)
+![](./multiple_program.png)
 
 ### 不同背景的申请者须知
 ![](./background_concern.png)

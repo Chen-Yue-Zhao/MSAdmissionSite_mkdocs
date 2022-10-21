@@ -15,7 +15,7 @@
 
 
 ### Prerequisites Decription
-![](./CSE%7CPrerequisites.png)
+![](./CSE_Prerequisites.png)
 
 
 ---
