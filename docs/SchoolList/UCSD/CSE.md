@@ -7,7 +7,7 @@
 | **Department:** | Department of Computer Science and Engineering (CSE) |
 | **Type:** | Full-time / Part-time, Course-based |
 | **Degree** | Master of Science (SM) |
-| **Length** |  |
+| **Length** | 1.5 years |
 | **STEM** | YES |
 | **Admission Rate** | 10% |
 | **Min TOEFL** | 85 |
@@ -24,7 +24,7 @@
 
 ## Master Admission
 
-**网申通道：[点此链接](https://connect.grad.ucsd.edu/apply/)**
+**UCSD研究生申请管理网：[点此链接](https://connect.grad.ucsd.edu/apply/)**
 
 **网申通道：[点此链接](https://grad.ucsd.edu/admissions/index.html)**
 

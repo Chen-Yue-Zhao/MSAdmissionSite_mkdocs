@@ -1,4 +1,4 @@
-# ECE M.S.: Master of Science in Computer Science / Engineering
+# ECE M.S.: Master of Science
 
 ## Program Overview
 
@@ -7,6 +7,7 @@
 | **Department:** | Department of Electrical and Computer Engineering (ECE) |
 | **Type:** | Full-time / Part-time, Course-based |
 | **Degree** | Master of Science (SM) |
+| **Length** | 2 years |
 | **STEM** | YES |
 | **Admission Rate** |  |
 | **Min TOEFL** | 85 |
@@ -28,7 +29,7 @@ Variety of research branches of M.S. programs for diverse background of applican
 
 ## Master Admission
 
-**网申通道：[点此链接](https://connect.grad.ucsd.edu/apply/)**
+**UCSD研究生申请管理网：[点此链接](https://connect.grad.ucsd.edu/apply/)**
 
 **网申通道：[点此链接](https://grad.ucsd.edu/admissions/index.html)**
 
@@ -44,7 +45,7 @@ by 11:59pm (California time)**
 #### Required
 
 - **Scanned unofficial copies of transcripts** -- [详情见此处](https://grad.ucsd.edu/admissions/requirements/academic-transcripts.html)
-- **Statement of Purpose (SOP)** -- [](https://grad.ucsd.edu/admissions/requirements/statement-of-purpose.html)
+- **Statement of Purpose (SOP)** -- [详情见此处](https://grad.ucsd.edu/admissions/requirements/statement-of-purpose.html)
 - **Three Letters of Recommendation**
 - **GRE: REQUIRED**
 - **TOEFL (明确接受家考)**
@@ -52,22 +53,18 @@ by 11:59pm (California time)**
 
 </br>
 
-### 已有硕士学位，能否申请? 
-![](./CSE/duplicate%20degree.png)
 
-### MS in CS 和 MS in CE的区别
-![](./CSE/专业区别.png)
+### 已有硕士学位，能否申请? 
+![](./ECE/duplicates.png.png)
 
 ### 不同背景的申请者须知
-![](./CSE/bg.png)
+![](./ECE/bg.png)
 
 ###  Admission Links
-**[申请基本信息](https://cse.ucsd.edu/graduate/admissions)**
+**[申请基本信息](https://ece.ucsd.edu/graduate/graduate-admissions)**
 
-**[申请提交CheckList](https://cse.ucsd.edu/graduate/cse-graduate-application-checklist)**
-
-**[CSE MS院系FAQ](https://cse.ucsd.edu/graduate/graduate-admissions-faq)**
+**[ESE MS院系FAQ](https://ece.ucsd.edu/graduate/admissions-faq)**
 
 **[USCD申请总FAQ](https://grad.ucsd.edu/admissions/admission-faq/index.html)**
 
-**[给申请者的建议](https://cse.ucsd.edu/graduate/advice-cse-graduate-studies-preparation)**
+**[CSE和ECE的比较](https://ece.ucsd.edu/graduate/comparison-degree-ece-and-cse)**
