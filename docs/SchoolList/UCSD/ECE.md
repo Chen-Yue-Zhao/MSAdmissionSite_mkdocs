@@ -9,7 +9,6 @@
 | **Degree** | Master of Science (SM) |
 | **Length** | 2 years |
 | **STEM** | YES |
-| **Admission Rate** |  |
 | **Min TOEFL** | 85 |
 | **Min IELTS** | 7.0 |
 | **Ave GRE** | V.157 Q.167 W.4 |
@@ -33,7 +32,7 @@ Variety of research branches of M.S. programs for diverse background of applican
 
 **网申通道：[点此链接](https://grad.ucsd.edu/admissions/index.html)**
 
-**申请截止日期：Wednesday, December 7th
+**申请截止日期: Wednesday, December 7th
 by 11:59pm (California time)**
 
 **通知日期: April 14, 2023**
