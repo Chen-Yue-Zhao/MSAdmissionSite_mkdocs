@@ -32,7 +32,7 @@
 
 ## Master Admission
 
-**网申网站: [点此链接](https://www.gradengineering.columbia.edu/graduate-admissions/apply**)
+**网申网站: [点此链接](https://www.gradengineering.columbia.edu/graduate-admissions/apply)**
 
 **申请截止日期:**
 - 2023 FALL
@@ -73,7 +73,6 @@ For detailed illustration click [here](https://www.gradengineering.columbia.edu/
 ### 已有硕士学位，能否申请? 
 
 ###  Admission Links
-**[]()**
 
 **[MSCS申请 Overview](https://www.cs.columbia.edu/education/admissions8/#deadlines)**
 
