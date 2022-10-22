@@ -1,68 +1,84 @@
-# ECE M.S.: Master of Science
+# MSCS: Master of Science in Computer Science
 
 ## Program Overview
 
 |Basic Info.||
 | :---: | :---: |
-| **Department:** |  |
+| **Department:** | Department of Computer Science, School of Engineering and Applied Sciences (SEAS) |
 | **Type:** | Full-time, Coursework-only, Project, and Thesis options |
 | **Degree** | Master of Science (SM) |
-| **Length** |  |
+| **Length** | 1.5 years |
 | **STEM** | YES |
-| **Min TOEFL** |  |
-| **Min IELTS** |  |
-| **Ave GRE** |  |
-| **Ave GPA** |  |
-| **Min GPA** |  |
+| **Rollong Admission** | <U>YES</u> |
+| **Ave TOEFL** | 101 Recommended |
+| **Min IELTS** | 7.0 |
+| **Ave GPA** | >3,5 |
 
-### Concentrations
-Datial information go check [here](https://ece.duke.edu/masters/degrees/ms).
-- Software Development
-- Hardware Design
-- Data Analytics & Machine Learning
-- Quantum Computing
-- Microelectronics, Photonics and Nanotechnology
+### Tracks
+- Computational Biology
+- Computer Security
+- Foundations of Computer Science
+- Machine Learning
+- Network Systems
+- Natural Language Processing
+- Software Systems
+- Vision and Graphics
+- Personalized
+- MS Thesis
 
-### Admission Statistics
-![](./admission_stats.png)
+### 
 
 ---
 
 ## Master Admission
 
-**UCSD研究生申请管理网：[点此链接](https://applygp.duke.edu/apply/?sr=78cd3932-4807-42f6-a982-840eb2b744cc)**
+**网申网站: [点此链接](https://www.gradengineering.columbia.edu/graduate-admissions/apply**)
 
 **申请截止日期:**
-- Guaranteed review: Jan. 1, 2023
-- Review based upon space availability: Jan. 2-Feb. 29, 2023
+- 2023 FALL
+  - 1st Priority: January 15
+  - 2nd priority: February 15
+- 2023 Spring
+  - Noverber 15
 
-**通知日期: April 1, 2022 (or later)**
+**通知日期: **
+
+**SEAS 申请 咨询邮箱: seasgradmit@columbia.edu**
+
+**CS 申请 咨询邮箱: ms-admissions@lists.cs.columbia.edu**
+
+**GT成绩报告咨询邮箱: seasgradmit@columbia.edu**
 
 ### Checklist
+For detailed illustration click [here](https://www.gradengineering.columbia.edu/graduate-admissions/application-requirements).
 #### Required
 
-- **Transcripts** -- [详情见此](https://gradschool.duke.edu/admissions/application-instructions/transcripts/)
-- **Letters of Recommendation** -- [详情见此](https://gradschool.duke.edu/admissions/application-instructions/letters-recommendation/)
-- **Statement of Purpose (SOP)** -- [详情见此](https://gradschool.duke.edu/admissions/application-instructions/statement-purpose/)
-![](SOP.png)
-- **Resume / C.V.** -- [详情见此](https://gradschool.duke.edu/admissions/application-instructions/resume-cv/)
-- **TOEFL** -- [详情见此](https://gradschool.duke.edu/admissions/application-instructions/english-language-proficiency-test-scores/)
-- **GPA: WES / ECE Reconmmended** -- [计算方式](https://gradschool.duke.edu/admissions/application-instructions/gpa/)
+- **Official transcript**
+- **Three recommendation letters**
+- **Personal statement**
+![](ps.png)
+- **Resumé or Curriculum Vitae**
+- **An interview may be requested**
+- **TOEFL/IELTS**
 </br>
 
 #### Optional
-- **GRE Score**  <u>optional 2023 only</u> -- [详情见此](https://gradschool.duke.edu/admissions/application-instructions/gre-scores/)
-![](./GRE.png)
+- **GRE Score**  <u>optional 2023 only</u>
+
 </br>
 
 ### 能否申请多个项目? 
-![](./multipleProgram.png)
+![](.)
 
 ### 已有硕士学位，能否申请? 
 
 ###  Admission Links
-**[ECE申请基本信息](https://ece.duke.edu/masters/admissions)**
+**[]()**
 
-**[Duke申请FAQ](https://gradschool.duke.edu/admissions/admissions-faqs/)**
+**[MSCS申请 Overview](https://www.cs.columbia.edu/education/admissions8/#deadlines)**
 
-**[Duke大学申请须知](https://gradschool.duke.edu/admissions/application-instructions/)**
+**[MSCS申请要求](https://www.gradengineering.columbia.edu/graduate-admissions/application-requirements)**
+
+**[MSCS 申请 FAQ (重要)](https://www.cs.columbia.edu/education/ms/appfaq/)**
+
+**[School of Eng. FAQ](https://www.gradengineering.columbia.edu/welcome/frequently-asked-questions-2)**
