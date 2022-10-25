@@ -10,6 +10,7 @@
 | **Rollong Admission** | <U>YES</u> |
 | **Min TOEFL** | 90 (不接受拼分 / MyBest scores) (每项至少20) |
 | **Min IELTS** | 6.5 |
+
 ### Trank I: Master of Science in Computer Science
 [项目主页](https://www.cs.usc.edu/academic-programs/masters/computer-science-general/)
 ### Trank II: Master of Science in Computer Science (Software Engineering)
