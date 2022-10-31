@@ -16,7 +16,8 @@
 | **Min GPA** | 3.2 / 4.0 |
 
 ### Concentrations
-Datial information go check [here](https://ece.duke.edu/masters/degrees/ms).
+Detail information go check [here](https://ece.duke.edu/masters/degrees/ms).
+
 - Software Development
 - Hardware Design
 - Data Analytics & Machine Learning
