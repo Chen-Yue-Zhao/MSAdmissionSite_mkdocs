@@ -17,12 +17,15 @@
 ### Research Areas
 Variety of research branches of M.S. programs for diverse background of applicants are provided, **including but not limited to**:
 
+- Intelligent Systems, Robotics & Control (Impacted) [1. 项目介绍](https://ece.ucsd.edu/faculty-research/ece-research-areas/intelligent-systems-robotics-control-impacted) [2. 课程列表](https://ece.ucsd.edu/sites/www.ece.ucsd.edu/files/research-areas/DP%20-%20ISRC%20%28EC80%29%202022-2023%20FILLABLE_1_0.pdf)
+- Machine Learning & Data Science (Impacted) [1. 项目介绍](https://ece.ucsd.edu/faculty-research/ece-research-areas/machine-learning-data-science-impacted) [2. 课程列表](https://ece.ucsd.edu/sites/www.ece.ucsd.edu/files/research-areas/DP-%20MLDS%20%28EC93%29%202022-2023%20FILLABLE_4.pdf)
+- Photonics
+- Signal & Image Processing
 - Applied Physics- Electronic Devices & Materials
 - Communication Theory & Systems
 - Computer Engineering (Impacted)
-- Machine Learning & Data Science (Impacted)
-- Photonics
-- Signal & Image Processing
+
+
 
 ---
 

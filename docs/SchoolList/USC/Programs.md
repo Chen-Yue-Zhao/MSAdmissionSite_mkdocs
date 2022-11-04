@@ -11,6 +11,8 @@
 | **Min IELTS** | 6.5 |
 
 
+**[点击此处](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/)查看全部CS Master项目（每年或有更新，务必确认）**
+
 ### Trank I: Master of Science in Computer Science
 
 [项目主页](https://www.cs.usc.edu/academic-programs/masters/computer-science-general/)
@@ -19,7 +21,7 @@
 
 [项目主页](https://www.cs.usc.edu/academic-programs/masters/software-engineering/)
 
-**NOTE: 该项目自2021年可能被取消，请及时关注[此处List of Master's Programs](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/)**
+**NOTE: 该项目自2021年被取消，请及时关注[List of Master's Programs](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/)**
 
 ### Trank III: Master of Science in Computer Science for Scientists and Engineers
 
