@@ -34,6 +34,7 @@ Detail information go check [here](https://ece.duke.edu/masters/degrees/ms).
 **UCSD研究生申请管理网：[点此链接](https://applygp.duke.edu/apply/?sr=78cd3932-4807-42f6-a982-840eb2b744cc)**
 
 **申请截止日期:**
+
 - Guaranteed review: Jan. 1, 2023
 - Review based upon space availability: Jan. 2-Feb. 29, 2023
 
